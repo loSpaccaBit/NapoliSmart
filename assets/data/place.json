@@ -1,0 +1,29 @@
+[
+    {
+        "title": "🏝️ Capri",
+        "subTitle": "A Mediterranean Gem with a Rich Heritage",
+        "subText": "L'isola di Capri è un gioiello del Mediterraneo, celebre per la sua bellezza naturale e la ricca eredità culturale. Questa splendida isola è stata un'importante destinazione per l'élite internazionale sin dai tempi dell'Impero Romano. La sua fama si deve in parte alle testimonianze di celebrità come il poeta Tiberio, l'imperatore Augusto e l'artista Jean Cocteau, che hanno trovato ispirazione tra le sue acque cristalline e i suoi panorami mozzafiato.\n\nLuoghi da visitare:\n- Grotta Azzurra: Questa iconica grotta marina è famosa per il suo incantevole effetto di luce azzurra che illumina l'acqua all'interno.\n- Villa Jovis: Una delle residenze dell'imperatore romano Tiberio, offre una vista panoramica straordinaria sull'isola.\n- Piazza Umberto I (La Piazzetta): Il cuore pulsante dell'isola, circondato da caffè e boutique di lusso.",
+        "assets": [
+            "https://cdn.images.ondaplatform.com/portals_articles/797/cover/Dollarphotoclub-75249552.jpg?crop=smart&mt=1674552961&width=600&height=335&density=2",
+            "https://i.pinimg.com/564x/e8/af/3a/e8af3a4acf6ff65f9c51b0feb37fbb39.jpg"
+        ]
+    },
+    {
+        "title": "🏝️ Ischia",
+        "subTitle": "A Paradise of Wellness and History",
+        "subText": "L'isola di Ischia è rinomata per le sue sorgenti termali, paesaggi lussureggianti e ricca storia. Questo angolo di paradiso offre non solo una fuga rilassante, ma anche una prospettiva storica affascinante. I Romani amavano Ischia per le sue terme, e i resti di antiche ville romane testimoniano questa passione. Oggi, le terme continuano a essere una delle principali attrazioni dell'isola.\n\nLuoghi da visitare:\n- Giardini La Mortella: Questi giardini tropicali sono un'oasi di bellezza con una vasta collezione di piante esotiche.\n- Castello Aragonese: Una maestosa fortezza costruita su un'isoletta collegata ad Ischia da un ponte.\n- Terme di Poseidon: Uno dei complessi termali più grandi d'Europa, con piscine termali a cielo aperto e giardini lussureggianti.",
+        "assets": [
+            "https://www.campania.info/wp-content/uploads/sites/111/ischia-sant-angelo.jpg",
+            "https://i.pinimg.com/564x/9e/8c/62/9e8c625c143db40f05e2cd8ae61d81a7.jpg"
+        ]
+    },
+    {
+        "title": "🏝️ Positano",
+        "subTitle": "A Coastal Paradise with Timeless Charm",
+        "subText": "Positano è la perla della Costiera Amalfitana, celebre per la sua architettura incantevole e le spiagge di sabbia dorata. Questo pittoresco borgo di pescatori ha una storia che risale all'epoca romana. Oggi è una meta ambita per chi cerca bellezze naturali, cultura e cucina mediterranea.\n\nLuoghi da visitare:\n- Spiaggia Grande: La spiaggia principale di Positano, con le sue affascinanti case colorate che si affacciano sul mare.\n- Chiesa di Santa Maria Assunta: Questa chiesa affrescata ospita l'iconica Madonna Nera di Positano.\n- Sentiero degli Dei: Un suggestivo sentiero escursionistico con viste panoramiche sulla Costiera Amalfitana.",
+        "assets": [
+            "https://cdn.images.ondaplatform.com/portals_articles/218/gallery/Dollarphotoclub-75249551-1770x1152.jpg?crop=smart&mt=1674552800&width=420&height=280&format=jpeg",
+            "https://i.pinimg.com/564x/60/6a/6d/606a6de8ab72ed6355fac746d051b30e.jpg"
+        ]
+    }
+]
